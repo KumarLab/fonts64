@@ -2,3 +2,7 @@
     font-family:'F';
 src:url("") format("embedded-opentype"),
 url(data:application/x-font-woff;charset=utf-8;base64,d09GRgABAA ... ETC... ETC
+
+
+
+http://www.motobit.com/util/base64-decoder-encoder.asp
